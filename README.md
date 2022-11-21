@@ -1,6 +1,6 @@
 # SQL_marketing_queries
 Creating e-commerce tables, generating test data, performing marketing queries. 
-PostgerSQL
+PostgreSQL
 
 -- Создать таблицы и сгенерировать данные (PostgreSQL): Users (содержит userId и возраст клиента), Items (содержит itemId и цену товара),
 -- Purchases (содержит idpurchase, userId, itemId)
