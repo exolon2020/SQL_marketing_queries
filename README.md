@@ -1,5 +1,5 @@
 # SQL_marketing_queries
-Creating e-commerce tables, generating test data, performing marketing queries. 
+## Creating e-commerce tables, generating test data, performing marketing queries. 
 PostgreSQL.
 <br>
 <ol>
@@ -18,12 +18,15 @@ PostgreSQL.
       <li>Вариант 3: средний чек для данных возрастных групп</li>
     </ul>
   <li>
+  <br>
     В каком месяце года выручка от пользователей в возрастном диапазоне 35+ самая большая?
   </li>
   <li>
+  <br>
     Какой товар обеспечивает дает наибольший вклад в выручку за последний год?
   </li>
   <li>
+  <br>
     Топ-3 товаров по выручке и их доля в общей выручке за любой год.
   </li>
 </ol>
