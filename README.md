@@ -4,7 +4,7 @@ PostgreSQL.
 <br>
 <ol>
   <li>
-    -Создать таблицы и сгенерировать данные (PostgreSQL): Users (содержит userId и возраст клиента), Items (содержит itemId и цену товара),
+    Создать таблицы и сгенерировать данные (PostgreSQL): Users (содержит userId и возраст клиента), Items (содержит itemId и цену товара),
     Purchases (содержит idpurchase, userId, itemId)
   </li>
   <li>
@@ -27,5 +27,5 @@ PostgreSQL.
   </li>
   <li>
     топ-3 товаров по выручке и их доля в общей выручке за любой год
-  <li>
+  </li>
 </ol>
